@@ -14,16 +14,15 @@
     <link rel="canonical" href="https://minimal-light-theme.yliu.me/"/>
     
 
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/favicon-dark.png" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="./assets/img/favicon.png" type="image/png" />
-    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="./html_source_file/assets/img/favicon-dark.png" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="./html_source_file/assets/img/favicon.png" type="image/png" />
+    <script src="./html_source_file/assets/js/favicon-switcher.js" type="application/javascript"></script>
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
-
     
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/publications.css">
+    <link rel="stylesheet" href="./html_source_file/assets/css/style.css">
+    <link rel="stylesheet" href="./html_source_file/assets/css/publications.css">
 
     <style>
       * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -154,7 +153,7 @@
     <div class="wrapper">
       <header>
         
-        <a class="image avatar"><img src="./assets/img/logo.png" alt="avatar" /></a>
+        <a class="image avatar"><img src="./html_source_file/assets/img/logo.png" alt="avatar" /></a>
         
 
         <h1>Nhóm L01 - Mobile app</h1>
@@ -189,38 +188,6 @@
 
         <br>
         <br>
-        <div class="social-icons">
-        
-        <a style="margin: 0 5px 0 0" href="https://scholar.google.com/">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
-        
-
-        
-        <a style="margin: 0 5px 0 0" href="assets/files/curriculum_vitae.pdf">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
-        </a>
-        
-
-        
-        <a style="margin: 0 5px 0 0" href="https://github.com/">
-          <i class="fab fa-github"></i>
-        </a>
-        
-
-        
-        <a style="margin: 0 5px 0 0" href="https://www.linkedin.com/">
-          <i class="fab fa-linkedin"></i>
-        </a>
-        
-
-        
-        <a style="margin: 0 0 0 0" href="https://twitter.com/">
-          <i class="fab fa-twitter"></i>
-        </a>
-        
-        </div>
-        <br>
 
       </header>
       <section>
@@ -233,9 +200,9 @@
         <div class="app-preview">
           <h2>App Preview</h2>
           <div class="preview-gallery">
-            <a class="image1"><img src="./assets/img/image1.png" alt="" /></a>
-            <a class="image2"><img src="./assets/img/image2.png" alt="" /></a>
-            <a class="image3"><img src="./assets/img/image3.png" alt="" /></a>
+            <a class="image1"><img src="./html_source_file/assets/img/image1.png" alt="" /></a>
+            <a class="image2"><img src="./html_source_file/assets/img/image2.png" alt="" /></a>
+            <a class="image3"><img src="./html_source_file/assets/img/image3.png" alt="" /></a>
           </div>
         </div>
 
