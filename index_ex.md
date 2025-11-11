@@ -1,6 +1,7 @@
 ---
 layout: homepage
 title: "Share In"
+published: false
 ---
 
 <div class="wrapper">
