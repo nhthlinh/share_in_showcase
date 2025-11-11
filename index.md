@@ -6,7 +6,6 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.">
     
     <meta name="keywords" content="minimal light">
     
@@ -14,15 +13,15 @@
     <link rel="canonical" href="https://minimal-light-theme.yliu.me/"/>
     
 
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="./html_source_file/assets/img/favicon-dark.png" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="./html_source_file/assets/img/favicon.png" type="image/png" />
-    <script src="./html_source_file/assets/js/favicon-switcher.js" type="application/javascript"></script>
+    <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/favicon-dark.png" type="image/png" />
+    <link rel="icon" media="(prefers-color-scheme:light)" href="./assets/img/favicon.png" type="image/png" />
+    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
     
-    <link rel="stylesheet" href="./html_source_file/assets/css/style.css">
-    <link rel="stylesheet" href="./html_source_file/assets/css/publications.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/publications.css">
 
     <style>
       * { margin: 0; padding: 0; box-sizing: border-box; }
