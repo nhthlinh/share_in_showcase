@@ -5,7 +5,7 @@ title: "Share In"
 
 <div class="wrapper">
   <header>
-    <a class="image avatar"><img src="./assets/img/logo.png" alt="avatar" /></a>
+    <a class="image avatar"><img src="./html_source_file/assets/img/logo.png" alt="avatar" /></a>
     <h1>Nhóm L01 - Mobile app</h1>
 
     <table>
@@ -34,9 +34,9 @@ title: "Share In"
       <div class="app-preview">
         <h2>App Preview</h2>
         <div class="preview-gallery">
-          <a class="image1"><img src="./assets/img/image1.png" alt="" /></a>
-          <a class="image2"><img src="./assets/img/image2.png" alt="" /></a>
-          <a class="image3"><img src="./assets/img/image3.png" alt="" /></a>
+          <a class="image1"><img src="./html_source_file/assets/img/image1.png" alt="" /></a>
+          <a class="image2"><img src="./html_source_file/assets/img/image2.png" alt="" /></a>
+          <a class="image3"><img src="./html_source_file/assets/img/image3.png" alt="" /></a>
         </div>
       </div>
 
